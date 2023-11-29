@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\code\cs\net22-azure-deploy-ws\net22-azure-deploy-ws\obj\Release\net6.0\PubTmp\Out\" />
+</sitemanifest>

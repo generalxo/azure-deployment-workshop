@@ -1,0 +1,7 @@
+C:\code\cs\net22-azure-deploy-ws\net22-azure-deploy-ws\obj\Release\net6.0\PubTmp\Out\net22-azure-deploy-ws.exe
+C:\code\cs\net22-azure-deploy-ws\net22-azure-deploy-ws\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\code\cs\net22-azure-deploy-ws\net22-azure-deploy-ws\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\code\cs\net22-azure-deploy-ws\net22-azure-deploy-ws\obj\Release\net6.0\PubTmp\Out\net22-azure-deploy-ws.dll
+C:\code\cs\net22-azure-deploy-ws\net22-azure-deploy-ws\obj\Release\net6.0\PubTmp\Out\net22-azure-deploy-ws.deps.json
+C:\code\cs\net22-azure-deploy-ws\net22-azure-deploy-ws\obj\Release\net6.0\PubTmp\Out\net22-azure-deploy-ws.runtimeconfig.json
+C:\code\cs\net22-azure-deploy-ws\net22-azure-deploy-ws\obj\Release\net6.0\PubTmp\Out\net22-azure-deploy-ws.pdb

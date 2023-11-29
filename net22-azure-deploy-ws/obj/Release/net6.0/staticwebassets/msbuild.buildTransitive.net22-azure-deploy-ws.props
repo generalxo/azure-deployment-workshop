@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\net22-azure-deploy-ws.props" />
+</Project>
